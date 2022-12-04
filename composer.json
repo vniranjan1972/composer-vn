@@ -1,6 +1,6 @@
 {
     "name": "vniranjan1972/composer-vn",
-    "description": "A hello world composer private package.",
+    "description": "A hello world composer custom package by V Niranjan.",
     "autoload": {
         "psr-4": {
             "vniranjan1972\\HelloWorldPackage\\": "src/"
