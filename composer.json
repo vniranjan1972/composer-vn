@@ -1,5 +1,5 @@
 {
-    "name": "your-github-username/hello-world-package",
+    "name": "vniranjan1972/composer-vn",
     "description": "A hello world composer private package.",
     "autoload": {
         "psr-4": {
