@@ -4,8 +4,8 @@ namespace HelloWorldPackage;
 
 class HelloWorld
 {
-    public static function sayHello()
+    public static function sayHelloVN()
     {
-        echo "Hello World";
+        echo "Hello World Artifactory";
     }
 }
